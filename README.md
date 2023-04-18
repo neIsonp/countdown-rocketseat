@@ -4,6 +4,8 @@ In this rocketseat challenge, I created a coming soon page for the launch of a w
 
 ![preview](./assets/images/preview.png)
 
+[🔗 click here to access](https://neisonp.github.io/countdown-rocketseat/)
+
 ## 🛠️ Technologies
 
 - HTML
