@@ -1,3 +1,3 @@
 # countdown-rocketseat
 
-![preview](./.assets/preview.png)
+![preview](./.styles/preview.png)
